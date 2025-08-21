@@ -11,14 +11,10 @@
             "id": "a23c85e740e5beab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/api-examples.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "api-examples"
+              "title": "新标签页"
             }
           }
         ]
@@ -171,21 +167,28 @@
   },
   "active": "a23c85e740e5beab",
   "lastOpenFiles": [
-    "新建文件夹",
-    "tree_structure.txt",
     "docs/markdown-examples.md",
     "docs/index.md",
     "docs/api-examples.md",
+    "index.md",
+    "docs/题解/郑轻正式赛/E.趣味组合.md",
+    "docs/题解/郑轻正式赛/C.二分查找-货车问题.md",
+    "docs/题解/郑轻正式赛/D.定积分-那我问你.md",
+    "docs/题解/郑轻正式赛/A. 快速幂-位运算-取模-午夜密令：离散对数的秘密战争.md",
+    "docs/题解/大一下招新赛/比赛答案.md",
+    "docs/题解/大一下招新赛/一些杂的知识.md",
+    "docs/题解/大一下招新赛/接雨水和异或.md",
+    "docs/题解/郑轻正式赛",
+    "docs/题解/大一下招新赛",
+    "docs/题解",
     "欢迎.md",
+    "未命名",
+    "新建文件夹",
+    "tree_structure.txt",
     "node_modules/nanoid/non-secure/package.json",
     "node_modules/nanoid/non-secure/index.js",
     "node_modules/nanoid/non-secure/index.d.ts",
     "node_modules/nanoid/non-secure/index.cjs",
-    "node_modules/nanoid/non-secure",
-    "node_modules/@vue/compiler-sfc/dist/compiler-sfc.esm-browser.js",
-    "node_modules/@vue/compiler-sfc/dist/compiler-sfc.d.ts",
-    "node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js",
-    "node_modules/@vue/compiler-sfc/dist",
     "node_modules/@esbuild/win32-x64/README.md",
     "node_modules/@iconify-json/simple-icons/README.md",
     "node_modules/vitepress/README.md",
@@ -198,14 +201,6 @@
     "node_modules/@docsearch/css/README.md",
     "node_modules/@vueuse/core/README.md",
     "node_modules/oniguruma-parser/README.md",
-    "node_modules/vitepress/template/markdown-examples.md",
-    "node_modules/vitepress/template/index.md",
-    "node_modules/vitepress/template/api-examples.md",
-    "node_modules/oniguruma-to-es/README.md",
-    "node_modules/shiki/README.md",
-    "node_modules/rollup/LICENSE.md",
-    "node_modules/@vue/compiler-sfc/README.md",
-    "node_modules/property-information/readme.md",
-    "node_modules/mdast-util-to-hast/readme.md"
+    "node_modules/vitepress/template/markdown-examples.md"
   ]
 }

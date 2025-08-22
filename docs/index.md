@@ -1,25 +1,3 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "Knowledge-Base"
-  text: "测试知识库"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
-
+#### 所以现在终于达到差不多的效果了吗？
+不过，大概还会有很多需要干的事情吧。。。
+# 总之，这里是主页！欢迎！！！🎉
